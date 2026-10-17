@@ -7,6 +7,7 @@ public class Greeting {
         String username = scanner.nextLine();
         System.out.println("Hey there Friend !, " + username );
         System.out.println("Good Morning, " + username + "!");
+	System.out.println("BY Developer B");
         scanner.close();
     }
 }
